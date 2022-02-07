@@ -28,155 +28,165 @@ board = 0
 channel = 6
 
 ################# LV SciFi #################
-[board.scifi_1x1]
-crate = 0
-board = 0
-channel = 0
-
-[board.scifi_1x2]
-crate = 0
-board = 0
-channel = 1
-
-[board.scifi_1x3]
-crate = 0
-board = 0
-channel = 2
-
 [board.scifi_1y1]
 crate = 0
 board = 0
-channel = 3
+channel = 0
 
 [board.scifi_1y2]
 crate = 0
 board = 0
-channel = 4
+channel = 1
 
 [board.scifi_1y3]
 crate = 0
 board = 0
-channel = 5
-
-[board.scifi_2x1]
-crate = 0
-board = 0
-channel = 6
-
-[board.scifi_2x2]
-crate = 0
-board = 0
-channel = 7
-
-[board.scifi_2x3]
-crate = 0
-board = 1
-channel = 0
+channel = 2
 
 [board.scifi_2y1]
 crate = 0
+board = 0
+channel = 3
+
+[board.scifi_2y2]
+crate = 0
+board = 0
+channel = 4
+
+[board.scifi_2y3]
+crate = 0
+board = 0
+channel = 5
+
+[board.scifi_3y1]
+crate = 0
+board = 0
+channel = 6
+
+[board.scifi_3y2]
+crate = 0
+board = 0
+channel = 7
+
+[board.scifi_3y3]
+crate = 0
+board = 1
+channel = 0
+
+[board.scifi_4y1]
+crate = 0
 board = 1
 channel = 1
 
-[board.scifi_2y2]
+[board.scifi_4y2]
 crate = 0
 board = 1
 channel = 2
 
-[board.scifi_2y3]
+[board.scifi_4y3]
 crate = 0
 board = 1
 channel = 3
 
-[board.scifi_3x1]
+[board.scifi_5y1]
 crate = 0
 board = 1
 channel = 4
 
-[board.scifi_3x2]
+[board.scifi_5y2]
 crate = 0
 board = 1
 channel = 5
 
-[board.scifi_3x3]
+[board.scifi_5y3]
 crate = 0
 board = 1
 channel = 6
 
-[board.scifi_3y1]
-crate = 0
-board = 1
-channel = 7
+# [board.scifi_3y1]
+# crate = 0
+# board = 1
+# channel = 7
 
-[board.scifi_3y2]
+[board.scifi_1x1]
 crate = 0
 board = 2
 channel = 0
 
-[board.scifi_3y3]
+[board.scifi_1x2]
 crate = 0
 board = 2
 channel = 1
 
-[board.scifi_4x1]
+[board.scifi_1x3]
 crate = 0
 board = 2
 channel = 2
 
-[board.scifi_4x2]
+[board.scifi_2x1]
 crate = 0
 board = 2
 channel = 3
 
-[board.scifi_4x3]
+[board.scifi_2x2]
 crate = 0
 board = 2
 channel = 4
 
-[board.scifi_4y1]
+[board.scifi_2x3]
 crate = 0
 board = 2
 channel = 5
 
-[board.scifi_4y2]
+[board.scifi_3x1]
 crate = 0
 board = 2
 channel = 6
 
-[board.scifi_4y3]
+[board.scifi_3x2]
 crate = 0
 board = 2
 channel = 7
+
+[board.scifi_3x3]
+crate = 0
+board = 3
+channel = 0
+
+[board.scifi_4x1]
+crate = 0
+board = 3
+channel = 1
+
+[board.scifi_4x2]
+crate = 0
+board = 3
+channel = 2
+
+[board.scifi_4x3]
+crate = 0
+board = 3
+channel = 3
 
 [board.scifi_5x1]
 crate = 0
 board = 3
-channel = 0
+channel = 4
 
 [board.scifi_5x2]
 crate = 0
 board = 3
-channel = 1
+channel = 5
 
 [board.scifi_5x3]
 crate = 0
 board = 3
-channel = 2
+channel = 6
 
-[board.scifi_5y1]
-crate = 0
-board = 3
-channel = 3
-
-[board.scifi_5y2]
-crate = 0
-board = 3
-channel = 4
-
-[board.scifi_5y3]
-crate = 0
-board = 3
-channel = 5
+# [board.spare]
+# crate = 0
+# board = 3
+# channel = 7
 
 # ################# LV muons #################
 [board.us1]
