@@ -22,7 +22,7 @@ v_offset_tofpet = 0.6
 i_max = 300.0
 
 ################# LV Veto #################
-[board.veto_1]
+[board.veto]
 crate = 1
 board = 0
 channel = 6
