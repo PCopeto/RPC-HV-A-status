@@ -1,4 +1,13 @@
 # PSU control
+## Prerequisite
+Install the [pycaenhv](https://github.com/vasoto/pycaenhv) Python module.
+It can be installed with pip, moving into the folder ad doing:
+```bash
+pip install (--user) -e .
+```
+
+The `--user` is needed if you are NOT in a virtual python environment.
+In that case, you probably also need to do `pip3` instead of `pip`.
 
 ## set-channel-lv.py
 Turn on and off the LV for the boards.
