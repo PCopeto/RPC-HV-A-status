@@ -2,6 +2,7 @@
 
 import argparse
 from SndCaenManager import SndCaenManager
+import json
 
 def main():
   parser = argparse.ArgumentParser('Setting the HV')
@@ -15,7 +16,7 @@ def main():
   
   confPath = 'config_SND.toml'
   manager = SndCaenManager(confPath)
-  print(manager.getChannelInfo('board', args.channels))
+  print(json.dumps(manager.getChannelInfo('board', args.channels)))
 
 
 if __name__ == '__main__':
