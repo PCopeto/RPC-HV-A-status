@@ -3,7 +3,7 @@ import toml
 import numpy as np
 
 
-from pycaenhv.wrappers import init_system, deinit_system, get_board_parameters, get_crate_map, get_channel_parameter, set_channel_parameter, get_channel_parameter_property
+from pycaenhv.wrappers import init_system, deinit_system, get_board_parameters, get_crate_map, get_channel_parameter, set_channel_parameter, get_channel_parameter_property, exec_command
 from pycaenhv.helpers import channel_info
 from pycaenhv.enums import CAENHV_SYSTEM_TYPE, LinkType
 from pycaenhv.errors import CAENHVError
@@ -33,7 +33,17 @@ class SndCaenManager():
 
     except CAENHVError as err:
       print(f"Got error: {err}\nExiting ...")
+      raise
 
+  
+  def kill(self):
+    for h in self.handles:
+      exec_command(h, 'Kill')
+
+
+  def clearAlarm(self):
+    for h in self.handles:
+      exec_command(h, 'ClearAlarm')
 
 
   def getConfigProperty(self, daq: str, mode: str):
