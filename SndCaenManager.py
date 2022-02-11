@@ -138,6 +138,25 @@ class SndCaenManager():
             set_channel_parameter(self.handles[crate], board, channel, 'Pw', True)
           elif mode == 'on':
             set_channel_parameter(self.handles[crate], board, channel, 'Pw', True)
+  
+
+  def getChannelInfo(self, mode: str, daqs=None):
+    if daqs is None:
+      daqs = self.config[mode]
+
+    ret = {}
+    for daq in daqs:
+      if daq == 'default':
+        pass
+      else:
+        crate, board, channel = self.getConfigProperty(daq, mode)
+        retDaq = {}
+        chan_info = channel_info(self.handles[crate], board, channel)
+        for info in chan_info:
+          retDaq[info['name']] = info
+        ret[daq] = retDaq
+    
+    return ret
 
   def showChannelInfo(self, mode: str, daqs = None):
     """
