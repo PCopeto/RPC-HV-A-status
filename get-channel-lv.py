@@ -5,7 +5,7 @@ from SndCaenManager import SndCaenManager
 import json
 
 def main():
-  parser = argparse.ArgumentParser('Setting the HV')
+  parser = argparse.ArgumentParser('Get the LV status')
   parser.add_argument('channels', type=str, nargs='+', help='List the channels to be returned.')
   args = parser.parse_args()
 
