@@ -1,6 +1,7 @@
 import os
 import toml
 import numpy as np
+from fnmatch import filter as pattern_filter
 
 
 from pycaenhv.wrappers import init_system, deinit_system, get_board_parameters, get_crate_map, get_channel_parameter, set_channel_parameter, get_channel_parameter_property, exec_command
@@ -75,7 +76,11 @@ class SndCaenManager():
           crate, board, channel = self.getConfigProperty(daq, 'board')
           set_channel_parameter(self.handles[crate], board, channel, 'Pw', on)
     else:
+      newDaqs = set()
       for daq in daqs:
+        newDaqs |= set(pattern_filter(self.config['board'].keys(), daq))
+      print(f'Setting {newDaqs} to {"on" if on else "off"}')
+      for daq in newDaqs:
         if daq in self.config['board']:
           crate, board, channel = self.getConfigProperty(daq, 'board')
           set_channel_parameter(self.handles[crate], board, channel, 'Pw', on)        
@@ -135,16 +140,23 @@ class SndCaenManager():
           elif mode == 'on':
             set_channel_parameter(self.handles[crate], board, channel, 'Pw', True)
     else:
+      newDaqs = set()
       for daq in daqs:
+        newDaqs |= set(pattern_filter(self.config['bias'].keys(), daq))
+      print(f'Setting {newDaqs} to {mode}')
+      for daq in newDaqs:
         if daq in self.config['bias']:
           crate, board, channel = self.getConfigProperty(daq, 'bias')
           if mode == 'off':
             set_channel_parameter(self.handles[crate], board, channel, 'Pw', False)
           elif mode == 'idle':
-            self.override_OV(-10, [daq])           
+            self.override_OV(-20, [daq])           
             set_channel_parameter(self.handles[crate], board, channel, 'Pw', True)
           elif mode == 'operation':
-            self.override_OV(self.config['bias']['default']['ov'], [daq])           
+            try:
+              self.override_OV(self.config['bias'][daq]['ov'], [daq])
+            except KeyError:         
+              self.override_OV(self.config['bias']['default']['ov'], [daq])           
             set_channel_parameter(self.handles[crate], board, channel, 'Pw', True)
           elif mode == 'on':
             set_channel_parameter(self.handles[crate], board, channel, 'Pw', True)
@@ -155,7 +167,10 @@ class SndCaenManager():
       daqs = self.config[mode]
 
     ret = {}
+    newDaqs = set()
     for daq in daqs:
+      newDaqs |= set(pattern_filter(self.config[mode].keys(), daq))
+    for daq in newDaqs:
       if daq == 'default':
         pass
       else:
