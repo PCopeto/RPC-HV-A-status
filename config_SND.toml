@@ -189,32 +189,32 @@ channel = 6
 # channel = 7
 
 # ################# LV muons #################
-[board.us1]
+[board.muon_1]
 crate = 1
 board = 0
 channel = 0
 
-[board.us2]
+[board.muon_2]
 crate = 1
 board = 0
 channel = 1
 
-[board.us3]
+[board.muon_3]
 crate = 1
 board = 0
 channel = 2
 
-[board.ds1]
+[board.muon_4]
 crate = 1
 board = 0
 channel = 3
 
-[board.ds2]
+[board.muon_5]
 crate = 1
 board = 0
 channel = 4
 
-[board.ds3]
+[board.muon_6]
 crate = 1
 board = 0
 channel = 5
