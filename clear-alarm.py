@@ -3,7 +3,7 @@
 from SndCaenManager import SndCaenManager
 
 def main():
-  confPath = 'config_SND.toml'
+  confPath = '../DcsConf/config_SND.toml'
   manager = SndCaenManager(confPath)
   manager.clearAlarm()
 

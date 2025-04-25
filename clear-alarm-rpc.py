@@ -3,9 +3,9 @@
 from SndCaenManager import SndCaenManager
 
 def main():
-  confPath = '../DcsConf/config_SND.toml'
+  confPath = '../DcsConf/config_Rpc.toml'
   manager = SndCaenManager(confPath)
-  manager.kill()
+  manager.clearAlarm()
 
 
 if __name__ == '__main__':

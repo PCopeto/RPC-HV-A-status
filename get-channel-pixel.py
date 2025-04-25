@@ -14,7 +14,7 @@ def main():
   if 'all' in args.channels:
     args.channels = None
   
-  confPath = '../DcsConf/config_SND.toml'
+  confPath = '../DcsConf/config_SND_pixel.toml'
   manager = SndCaenManager(confPath)
   print(json.dumps(manager.getChannelInfo('board', args.channels)))
 

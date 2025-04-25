@@ -5,7 +5,7 @@ from SndCaenManager import SndCaenManager
 import json
 
 def main():
-  parser = argparse.ArgumentParser('Get the LV status')
+  parser = argparse.ArgumentParser('Get the HV status')
   parser.add_argument('channels', type=str, nargs='+', help='List the channels to be returned.')
   args = parser.parse_args()
 
@@ -14,9 +14,9 @@ def main():
   if 'all' in args.channels:
     args.channels = None
   
-  confPath = '../DcsConf/config_SND.toml'
+  confPath = '../DcsConf/config_Rpc.toml'
   manager = SndCaenManager(confPath)
-  print(json.dumps(manager.getChannelInfo('board', args.channels)))
+  print(json.dumps(manager.getChannelInfo('bias', args.channels)))
 
 
 if __name__ == '__main__':

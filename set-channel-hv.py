@@ -12,7 +12,7 @@ def main():
   if 'all' in args.channels:
     args.channels = None
   
-  confPath = 'config_SND.toml'
+  confPath = '../DcsConf/config_SND.toml'
   manager = SndCaenManager(confPath)
   manager.switchHV(args.mode, args.channels)
 

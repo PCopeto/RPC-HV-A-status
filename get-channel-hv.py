@@ -14,7 +14,7 @@ def main():
   if 'all' in args.channels:
     args.channels = None
   
-  confPath = 'config_SND.toml'
+  confPath = '../DcsConf/config_SND.toml'
   manager = SndCaenManager(confPath)
   print(json.dumps(manager.getChannelInfo('bias', args.channels)))
 
