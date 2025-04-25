@@ -1,0 +1,16 @@
+################# LV Pixel #################
+[[crates]]
+module = 'SY5527'
+linktype = 'TCPIP'
+address = '10.11.104.10'
+username = 'admin'
+password = 'admin'
+
+[board.default]
+v = 3.5
+i = 5
+
+[board.pixel]
+crate = 0
+board = 3
+channel = 0

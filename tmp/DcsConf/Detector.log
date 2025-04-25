@@ -1,0 +1,568 @@
+Mar. 20, 2024 - 07:49:39   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Mar. 20, 2024 - 07:49:39   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 20, 2024 - 07:49:54   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Mar. 20, 2024 - 07:49:54   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 20, 2024 - 07:50:14   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Mar. 20, 2024 - 07:50:14   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 21, 2024 - 00:21:20   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Mar. 21, 2024 - 00:21:20   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 21, 2024 - 00:21:29   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Mar. 21, 2024 - 00:21:29   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 21, 2024 - 00:21:39   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Mar. 21, 2024 - 00:21:39   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 22, 2024 - 10:28:28   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Mar. 22, 2024 - 10:28:28   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 22, 2024 - 10:28:36   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Mar. 22, 2024 - 10:28:36   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 22, 2024 - 10:28:43   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Mar. 22, 2024 - 10:28:43   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 23, 2024 - 01:06:33   ::Muon::ECS::No Run::Error::None::DAQ Check::Board-Server not active
+Mar. 23, 2024 - 01:06:33   ::Veto::ECS::No Run::Error::None::DAQ Check::Board Server not active
+Mar. 23, 2024 - 01:06:33   ::Scifi::ECS::No Run::Error::None::DAQ Check::Board Server not active
+Mar. 23, 2024 - 14:14:40   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Mar. 23, 2024 - 14:14:40   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 23, 2024 - 14:14:49   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Mar. 23, 2024 - 14:14:49   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 23, 2024 - 14:15:00   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Mar. 23, 2024 - 14:15:00   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 23, 2024 - 16:46:08   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Mar. 23, 2024 - 16:46:08   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 23, 2024 - 16:46:16   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Mar. 23, 2024 - 16:46:16   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 23, 2024 - 16:46:24   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Mar. 23, 2024 - 16:46:24   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 23, 2024 - 22:11:42   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Mar. 23, 2024 - 22:11:42   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 24, 2024 - 00:52:58   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Mar. 24, 2024 - 00:52:58   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 24, 2024 - 00:53:06   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Mar. 24, 2024 - 00:53:06   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 24, 2024 - 00:53:15   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Mar. 24, 2024 - 00:53:15   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 25, 2024 - 23:35:20   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Mar. 25, 2024 - 23:35:20   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 25, 2024 - 23:35:22   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Mar. 25, 2024 - 23:35:22   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 25, 2024 - 23:35:24   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Mar. 25, 2024 - 23:35:24   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 29, 2024 - 11:20:06   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Mar. 29, 2024 - 11:20:06   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 29, 2024 - 11:20:15   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Mar. 29, 2024 - 11:20:15   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 29, 2024 - 11:20:24   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Mar. 29, 2024 - 11:20:24   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 01, 2024 - 08:58:28   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Apr. 01, 2024 - 08:58:28   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 01, 2024 - 08:58:41   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 01, 2024 - 08:58:41   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 01, 2024 - 08:58:53   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 01, 2024 - 08:58:53   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 06, 2024 - 01:27:49   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Apr. 06, 2024 - 01:27:49   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 06, 2024 - 01:28:05   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 06, 2024 - 01:28:05   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 06, 2024 - 01:28:15   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 06, 2024 - 01:28:15   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 07, 2024 - 20:39:51   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Apr. 07, 2024 - 20:39:51   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 07, 2024 - 20:40:37   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 07, 2024 - 20:40:37   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 07, 2024 - 20:40:47   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 07, 2024 - 20:40:47   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 07, 2024 - 23:57:58   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 07, 2024 - 23:57:58   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 07, 2024 - 23:57:58   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 07, 2024 - 23:57:58   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 07, 2024 - 23:58:19   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Apr. 07, 2024 - 23:58:19   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 07, 2024 - 23:58:28   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 07, 2024 - 23:58:28   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 08, 2024 - 06:47:58   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Apr. 08, 2024 - 06:47:58   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 08, 2024 - 06:48:08   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 08, 2024 - 06:48:08   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 08, 2024 - 06:48:16   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 08, 2024 - 06:48:16   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 08, 2024 - 15:12:47   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Apr. 08, 2024 - 15:12:47   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 08, 2024 - 15:13:04   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 08, 2024 - 15:13:04   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 08, 2024 - 15:13:24   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 08, 2024 - 15:13:24   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 08, 2024 - 15:57:27   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Apr. 08, 2024 - 15:57:27   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 08, 2024 - 15:57:35   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 08, 2024 - 15:57:35   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 08, 2024 - 15:57:42   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 08, 2024 - 15:57:42   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 09, 2024 - 08:55:34   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Apr. 09, 2024 - 08:55:34   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 09, 2024 - 08:56:04   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 09, 2024 - 08:56:04   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 09, 2024 - 08:56:21   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 09, 2024 - 08:56:21   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 10, 2024 - 11:47:33   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 10, 2024 - 11:47:33   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 10, 2024 - 11:47:50   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Apr. 10, 2024 - 11:47:50   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 10, 2024 - 11:48:04   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 10, 2024 - 11:48:04   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 10, 2024 - 12:39:55   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Apr. 10, 2024 - 12:39:55   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 10, 2024 - 12:40:09   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 10, 2024 - 12:40:09   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 10, 2024 - 12:40:29   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 10, 2024 - 12:40:29   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 11, 2024 - 03:57:25   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Apr. 11, 2024 - 03:57:25   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 11, 2024 - 03:57:34   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 11, 2024 - 03:57:34   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 11, 2024 - 03:57:42   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 11, 2024 - 03:57:42   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 15, 2024 - 09:18:58   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Apr. 15, 2024 - 09:18:58   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 15, 2024 - 17:39:33   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 15, 2024 - 17:39:33   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 15, 2024 - 17:39:44   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 15, 2024 - 17:39:44   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 22, 2024 - 17:13:50   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Apr. 22, 2024 - 17:13:50   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 22, 2024 - 17:14:07   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 22, 2024 - 17:14:07   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 22, 2024 - 17:14:17   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 22, 2024 - 17:14:17   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 22, 2024 - 22:20:36   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 22, 2024 - 22:20:36   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 23, 2024 - 00:49:42   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 23, 2024 - 00:49:42   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 23, 2024 - 11:58:29   ::Scifi::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : 
+Apr. 23, 2024 - 16:00:18   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 23, 2024 - 16:00:18   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 23, 2024 - 23:10:20   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 23, 2024 - 23:10:20   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 23, 2024 - 23:10:33   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Apr. 23, 2024 - 23:10:33   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 24, 2024 - 11:22:17   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 24, 2024 - 11:22:17   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 24, 2024 - 11:25:55   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : 
+Apr. 24, 2024 - 11:25:55   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : 
+Apr. 24, 2024 - 11:27:20   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Apr. 24, 2024 - 11:27:20   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 25, 2024 - 18:11:33   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 25, 2024 - 18:11:33   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 25, 2024 - 21:24:35   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Apr. 25, 2024 - 21:24:35   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 25, 2024 - 21:24:52   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 25, 2024 - 21:24:52   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 25, 2024 - 21:25:15   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 25, 2024 - 21:25:15   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 27, 2024 - 21:45:09   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : 
+Apr. 27, 2024 - 21:45:09   ::Veto::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : 
+Apr. 27, 2024 - 21:45:09   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : 
+Apr. 30, 2024 - 20:12:22   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : 
+Apr. 30, 2024 - 20:12:22   ::Veto::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : 
+Apr. 30, 2024 - 20:12:22   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : 
+May. 06, 2024 - 07:28:01   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+May. 06, 2024 - 07:28:01   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 06, 2024 - 07:29:02   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+May. 06, 2024 - 07:29:02   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 06, 2024 - 14:53:01   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+May. 06, 2024 - 14:53:01   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 08, 2024 - 10:55:35   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 08, 2024 - 10:55:35   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 08, 2024 - 17:03:06   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+May. 08, 2024 - 17:03:06   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 08, 2024 - 18:26:09   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+May. 08, 2024 - 18:26:09   ::Veto::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : veto_12-veto_3
+May. 08, 2024 - 18:26:09   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+May. 10, 2024 - 22:32:35   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+May. 10, 2024 - 22:32:35   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 10, 2024 - 22:32:43   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 10, 2024 - 22:32:43   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 10, 2024 - 22:32:51   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+May. 10, 2024 - 22:32:51   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 12, 2024 - 18:08:19   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+May. 12, 2024 - 18:08:19   ::Veto::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : veto_12-veto_3
+May. 12, 2024 - 18:08:19   ::Scifi::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+May. 12, 2024 - 18:37:41   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+May. 12, 2024 - 18:37:41   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 12, 2024 - 18:37:50   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 12, 2024 - 18:37:50   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 12, 2024 - 18:37:59   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+May. 12, 2024 - 18:37:59   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 18, 2024 - 00:06:39   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+May. 18, 2024 - 00:06:39   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 18, 2024 - 00:06:56   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 18, 2024 - 00:06:56   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 18, 2024 - 00:07:29   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+May. 18, 2024 - 00:07:29   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 19, 2024 - 17:13:52   ::Veto::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : veto_12
+May. 19, 2024 - 17:13:52   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : scifi_1x2-scifi_2y3-scifi_3x3
+May. 19, 2024 - 17:13:52   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+May. 19, 2024 - 17:13:52   ::Veto::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : veto_3
+May. 19, 2024 - 17:13:52   ::Scifi::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : scifi_1x1-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_3x1-scifi_3x2-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+May. 23, 2024 - 16:08:14   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 23, 2024 - 16:08:14   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 23, 2024 - 16:08:14   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 23, 2024 - 16:08:14   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 23, 2024 - 16:08:14   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 23, 2024 - 16:08:14   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 23, 2024 - 16:08:14   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+May. 23, 2024 - 16:08:14   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 23, 2024 - 16:08:14   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 23, 2024 - 16:08:14   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 23, 2024 - 16:08:14   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 23, 2024 - 16:08:14   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 23, 2024 - 16:08:14   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 23, 2024 - 16:08:14   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 23, 2024 - 16:08:14   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+May. 23, 2024 - 16:08:14   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 23, 2024 - 16:08:14   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+May. 23, 2024 - 16:08:14   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 23, 2024 - 16:08:14   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 23, 2024 - 16:08:14   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 23, 2024 - 16:11:54   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 23, 2024 - 16:11:54   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 23, 2024 - 16:11:57   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+May. 23, 2024 - 16:11:57   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 23, 2024 - 16:11:57   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 23, 2024 - 16:11:57   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 25, 2024 - 00:57:57   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+May. 25, 2024 - 00:57:57   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 25, 2024 - 07:08:46   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+May. 25, 2024 - 07:08:46   ::Veto::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : veto_12-veto_3
+May. 25, 2024 - 07:08:46   ::Scifi::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+May. 25, 2024 - 10:23:18   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+May. 25, 2024 - 10:23:18   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 25, 2024 - 10:23:34   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 25, 2024 - 10:23:34   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 25, 2024 - 10:23:49   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+May. 25, 2024 - 10:23:49   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 25, 2024 - 11:31:04   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+May. 25, 2024 - 11:31:04   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 25, 2024 - 11:31:14   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 25, 2024 - 11:31:14   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 25, 2024 - 11:31:24   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+May. 25, 2024 - 11:31:24   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 25, 2024 - 12:45:04 PM   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : scifi_1x2-scifi_3y3-scifi_5x3
+May. 25, 2024 - 12:45:04 PM   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+May. 25, 2024 - 12:45:04 PM   ::Veto::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : veto_12-veto_3
+May. 25, 2024 - 12:45:04 PM   ::Scifi::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : scifi_1x1-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5y1-scifi_5y2-scifi_5y3
+May. 25, 2024 - 07:03:58 PM   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+May. 25, 2024 - 07:03:58 PM   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 25, 2024 - 07:04:07 PM   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 25, 2024 - 07:04:07 PM   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 25, 2024 - 07:04:17 PM   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+May. 25, 2024 - 07:04:17 PM   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 27, 2024 - 15:25:20   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+May. 27, 2024 - 15:25:20   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 27, 2024 - 15:25:30   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 27, 2024 - 15:25:30   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 27, 2024 - 15:25:40   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+May. 27, 2024 - 15:25:40   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 27, 2024 - 16:51:21   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+May. 27, 2024 - 16:51:21   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 27, 2024 - 16:51:29   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 27, 2024 - 16:51:29   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 27, 2024 - 16:51:37   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+May. 27, 2024 - 16:51:37   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 27, 2024 - 17:08:14   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_1-muon_2-muon_6
+May. 27, 2024 - 17:09:18   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+May. 27, 2024 - 17:09:18   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 27, 2024 - 17:09:26   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 27, 2024 - 17:09:26   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 27, 2024 - 17:09:33   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+May. 27, 2024 - 17:09:33   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 28, 2024 - 14:58:31   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+May. 28, 2024 - 14:58:31   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 28, 2024 - 14:58:42   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+May. 28, 2024 - 14:58:42   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+May. 28, 2024 - 14:58:50   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+May. 28, 2024 - 14:58:50   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jun. 09, 2024 - 11:05:17   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+Jun. 09, 2024 - 11:05:17   ::Veto::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : veto_12-veto_3
+Jun. 09, 2024 - 11:05:17   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+Jun. 09, 2024 - 11:13:53   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+Jun. 09, 2024 - 11:13:53   ::Veto::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : veto_12-veto_3
+Jun. 09, 2024 - 11:13:53   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+Jun. 09, 2024 - 14:44:14   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Jun. 09, 2024 - 14:44:14   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jun. 09, 2024 - 14:44:25   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Jun. 09, 2024 - 14:44:25   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jun. 09, 2024 - 14:44:36   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Jun. 09, 2024 - 14:44:36   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jun. 13, 2024 - 16:00:44   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Jun. 13, 2024 - 16:00:44   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jun. 13, 2024 - 16:01:24   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Jun. 13, 2024 - 16:01:24   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jun. 13, 2024 - 16:02:27   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Jun. 13, 2024 - 16:02:27   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jun. 14, 2024 - 23:02:42   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Jun. 14, 2024 - 23:02:42   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jun. 14, 2024 - 23:03:13   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Jun. 14, 2024 - 23:03:13   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jun. 14, 2024 - 23:03:16   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Jun. 14, 2024 - 23:03:16   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jun. 19, 2024 - 17:50:11   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Jun. 19, 2024 - 17:50:11   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jun. 19, 2024 - 17:50:19   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Jun. 19, 2024 - 17:50:19   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jun. 19, 2024 - 17:50:29   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Jun. 19, 2024 - 17:50:29   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jun. 25, 2024 - 11:42:53   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+Jun. 25, 2024 - 11:42:53   ::Veto::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : veto_12-veto_3
+Jun. 25, 2024 - 11:42:53   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+Jun. 30, 2024 - 10:18:14   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : scifi_4x2
+Jul. 08, 2024 - 13:59:35   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_1
+Jul. 08, 2024 - 13:59:35   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_2-muon_6
+Jul. 09, 2024 - 10:11:24   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Jul. 09, 2024 - 10:11:24   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jul. 09, 2024 - 10:11:32   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Jul. 09, 2024 - 10:11:32   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jul. 09, 2024 - 10:11:40   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Jul. 09, 2024 - 10:11:40   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jul. 14, 2024 - 09:20:39 AM   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Jul. 14, 2024 - 09:20:39 AM   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jul. 14, 2024 - 09:20:50 AM   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Jul. 14, 2024 - 09:20:50 AM   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jul. 14, 2024 - 09:21:00 AM   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Jul. 14, 2024 - 09:21:00 AM   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jul. 24, 2024 - 11:07:13 AM   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Jul. 24, 2024 - 11:07:13 AM   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jul. 24, 2024 - 11:07:21 AM   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Jul. 24, 2024 - 11:07:21 AM   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jul. 24, 2024 - 11:07:28 AM   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Jul. 24, 2024 - 11:07:28 AM   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jul. 24, 2024 - 01:28:51 PM   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Jul. 24, 2024 - 01:28:51 PM   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jul. 24, 2024 - 01:29:08 PM   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Jul. 24, 2024 - 01:29:08 PM   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jul. 24, 2024 - 01:29:15 PM   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Jul. 24, 2024 - 01:29:15 PM   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jul. 24, 2024 - 02:03:53 PM   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : muon_3
+Jul. 24, 2024 - 02:03:53 PM   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_1-muon_2-muon_6
+Jul. 29, 2024 - 08:22:17 AM   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+Jul. 29, 2024 - 08:22:17 AM   ::Veto::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : veto_12-veto_3
+Jul. 29, 2024 - 08:22:17 AM   ::Scifi::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+Jul. 30, 2024 - 02:59:59 PM   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+Jul. 30, 2024 - 02:59:59 PM   ::Scifi::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : scifi_5y3
+Jul. 30, 2024 - 06:50:40 PM   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Jul. 30, 2024 - 06:50:40 PM   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jul. 30, 2024 - 06:50:49 PM   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Jul. 30, 2024 - 06:50:49 PM   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Jul. 30, 2024 - 06:51:01 PM   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Jul. 30, 2024 - 06:51:01 PM   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Aug. 04, 2024 - 08:03:57 AM   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+Aug. 04, 2024 - 08:03:57 AM   ::Veto::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : veto_12-veto_3
+Aug. 04, 2024 - 08:03:57 AM   ::Scifi::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+Aug. 04, 2024 - 03:14:44 PM   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+Aug. 04, 2024 - 03:14:44 PM   ::Veto::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : veto_12-veto_3
+Aug. 04, 2024 - 03:14:44 PM   ::Scifi::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+Aug. 04, 2024 - 03:17:20 PM   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+Aug. 04, 2024 - 03:17:20 PM   ::Veto::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : veto_12-veto_3
+Aug. 04, 2024 - 03:17:20 PM   ::Scifi::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+Aug. 04, 2024 - 09:26:06 PM   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+Aug. 04, 2024 - 09:26:06 PM   ::Veto::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : veto_12-veto_3
+Aug. 04, 2024 - 09:26:06 PM   ::Scifi::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+Aug. 05, 2024 - 12:01:24 AM   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Aug. 05, 2024 - 12:01:24 AM   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Aug. 05, 2024 - 12:01:26 AM   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Aug. 05, 2024 - 12:01:26 AM   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Aug. 05, 2024 - 12:01:27 AM   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Aug. 05, 2024 - 12:01:27 AM   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Aug. 05, 2024 - 12:01:32 AM   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Aug. 05, 2024 - 12:01:32 AM   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Aug. 05, 2024 - 04:23:50 PM   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Aug. 05, 2024 - 04:23:50 PM   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Aug. 05, 2024 - 04:23:52 PM   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Aug. 05, 2024 - 04:23:52 PM   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Aug. 05, 2024 - 04:24:02 PM   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Aug. 05, 2024 - 04:24:02 PM   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Aug. 05, 2024 - 08:48:51 PM   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : scifi_4x3
+Aug. 05, 2024 - 08:48:51 PM   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_1-muon_2-muon_6
+Aug. 06, 2024 - 10:56:39 AM   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+Aug. 06, 2024 - 10:56:39 AM   ::Veto::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : veto_12-veto_3
+Aug. 06, 2024 - 10:56:39 AM   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+Aug. 07, 2024 - 15:14:35   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Aug. 07, 2024 - 15:14:35   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Aug. 08, 2024 - 10:33:28   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Aug. 08, 2024 - 10:33:28   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Aug. 08, 2024 - 19:31:46   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Aug. 08, 2024 - 19:31:46   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Aug. 08, 2024 - 19:45:40   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Aug. 08, 2024 - 19:45:40   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Aug. 09, 2024 - 12:36:36   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+Aug. 09, 2024 - 12:36:36   ::Veto::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : veto_12-veto_3
+Aug. 09, 2024 - 12:36:36   ::Scifi::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+Aug. 09, 2024 - 12:38:39   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Aug. 09, 2024 - 12:38:39   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Aug. 09, 2024 - 12:38:47   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Aug. 09, 2024 - 12:38:47   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Aug. 09, 2024 - 12:39:01   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Aug. 09, 2024 - 12:39:01   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Aug. 28, 2024 - 22:13:54   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_3-muon_4-muon_5-muon_6
+Aug. 28, 2024 - 22:13:54   ::Veto::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : veto_12
+Aug. 28, 2024 - 22:13:54   ::Scifi::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : scifi_1x2-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y3-scifi_4x3-scifi_4y1-scifi_4y3-scifi_5x2
+Sep. 02, 2024 - 15:31:14   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+Sep. 02, 2024 - 15:31:14   ::Veto::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : veto_12-veto_3
+Sep. 02, 2024 - 15:31:14   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+Sep. 02, 2024 - 23:42:07   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1-muon_2
+Sep. 02, 2024 - 23:42:07   ::Scifi::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+Sep. 13, 2024 - 15:08:01   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Sep. 13, 2024 - 15:08:01   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Sep. 13, 2024 - 15:08:07   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Sep. 13, 2024 - 15:08:07   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Sep. 13, 2024 - 15:08:10   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Sep. 13, 2024 - 15:08:10   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Sep. 14, 2024 - 13:24:46   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+Sep. 14, 2024 - 13:24:46   ::Veto::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : veto_12-veto_3
+Sep. 14, 2024 - 13:24:46   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+Sep. 14, 2024 - 22:42:44   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_1-muon_2-muon_6
+Sep. 14, 2024 - 22:54:51   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_1-muon_2-muon_6
+Sep. 15, 2024 - 16:45:36   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1
+Sep. 15, 2024 - 19:33:02   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1
+Sep. 15, 2024 - 21:14:13   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1
+Sep. 15, 2024 - 23:10:06   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1
+Sep. 15, 2024 - 23:46:45   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1
+Sep. 15, 2024 - 23:52:05   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1
+Sep. 16, 2024 - 14:29:49   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_1
+Sep. 16, 2024 - 14:33:52   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_1
+Sep. 23, 2024 - 14:28:51   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_2-muon_6
+Sep. 24, 2024 - 14:24:03   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Sep. 24, 2024 - 14:24:03   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Sep. 24, 2024 - 14:24:11   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Sep. 24, 2024 - 14:24:11   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Sep. 24, 2024 - 14:24:27   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Sep. 24, 2024 - 14:24:27   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Sep. 24, 2024 - 14:41:36   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Sep. 24, 2024 - 14:41:36   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Sep. 24, 2024 - 14:41:45   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Sep. 24, 2024 - 14:41:45   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Sep. 24, 2024 - 14:41:53   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Sep. 24, 2024 - 14:41:53   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Sep. 24, 2024 - 20:31:40   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_2-muon_6
+Sep. 25, 2024 - 11:45:16   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : muon_5
+Sep. 25, 2024 - 11:45:16   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_3
+Sep. 25, 2024 - 11:45:16   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1
+Sep. 25, 2024 - 11:51:13   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : muon_5
+Sep. 25, 2024 - 11:51:13   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_3
+Sep. 25, 2024 - 11:51:13   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1
+Sep. 25, 2024 - 11:55:10   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : muon_5
+Sep. 25, 2024 - 11:55:10   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_3
+Sep. 25, 2024 - 11:55:10   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1
+Sep. 25, 2024 - 12:07:01   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : muon_5
+Sep. 25, 2024 - 12:07:01   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_3
+Sep. 25, 2024 - 12:07:01   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1
+Sep. 25, 2024 - 12:17:07   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : muon_5
+Sep. 25, 2024 - 12:17:07   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_3
+Sep. 25, 2024 - 12:17:07   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_1
+Sep. 25, 2024 - 12:36:37   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_3
+Sep. 25, 2024 - 12:59:16   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_3
+Sep. 25, 2024 - 12:59:16   ::Veto::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : veto_12-veto_3
+Sep. 25, 2024 - 14:38:52   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_3
+Sep. 25, 2024 - 14:38:52   ::Veto::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : veto_12-veto_3
+Sep. 25, 2024 - 14:46:16   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_3
+Sep. 25, 2024 - 14:46:16   ::Veto::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : veto_12-veto_3
+Oct. 04, 2024 - 12:52:16   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+Oct. 04, 2024 - 12:52:16   ::Veto::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : veto_12-veto_3
+Oct. 04, 2024 - 12:52:16   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+Oct. 04, 2024 - 12:58:16   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_1-muon_2-muon_6
+Oct. 21, 2024 - 11:01:05   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_1
+Oct. 21, 2024 - 11:01:05   ::Muon::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : muon_2-muon_6
+Oct. 28, 2024 - 09:44:32   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+Oct. 28, 2024 - 09:44:32   ::Veto::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : veto_12-veto_3
+Oct. 28, 2024 - 09:44:32   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+Mar. 02, 2025 - 23:51:48   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Mar. 02, 2025 - 23:51:48   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 04, 2025 - 03:26:20 PM   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Mar. 04, 2025 - 03:26:20 PM   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 05, 2025 - 09:20:42   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Mar. 05, 2025 - 09:20:42   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 05, 2025 - 19:05:14   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Mar. 05, 2025 - 19:05:14   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 05, 2025 - 19:40:21   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Mar. 05, 2025 - 19:40:21   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 06, 2025 - 00:13:55   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Mar. 06, 2025 - 00:13:55   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 06, 2025 - 14:23:35   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Mar. 06, 2025 - 14:23:35   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 06, 2025 - 14:23:36   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Mar. 06, 2025 - 14:23:36   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 10, 2025 - 14:42:37   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Mar. 10, 2025 - 14:42:37   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 10, 2025 - 15:00:15   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Mar. 10, 2025 - 15:00:15   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 10, 2025 - 15:04:59   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : muon_5
+Mar. 10, 2025 - 15:04:59   ::Veto::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : veto_12-veto_3
+Mar. 10, 2025 - 15:04:59   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+Mar. 10, 2025 - 15:04:59   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_1-muon_2
+Mar. 10, 2025 - 19:50:23   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Mar. 10, 2025 - 19:50:23   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 11, 2025 - 15:06:16   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 2.0
+Mar. 11, 2025 - 15:06:16   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 11, 2025 - 15:19:09   ::Scifi::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : scifi_1x1-scifi_1x2-scifi_1x3-scifi_1y1-scifi_1y2-scifi_1y3-scifi_2x1-scifi_2x2-scifi_2x3-scifi_2y1-scifi_2y2-scifi_2y3-scifi_3x1-scifi_3x2-scifi_3x3-scifi_3y1-scifi_3y2-scifi_3y3-scifi_4x1-scifi_4x2-scifi_4x3-scifi_4y1-scifi_4y2-scifi_4y3-scifi_5x1-scifi_5x2-scifi_5x3-scifi_5y1-scifi_5y2-scifi_5y3
+Mar. 11, 2025 - 15:19:09   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_1-muon_2-muon_6
+Mar. 11, 2025 - 15:21:16   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Mar. 11, 2025 - 15:21:16   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 14, 2025 - 17:23:41   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 4.0 - mDT 
+Mar. 14, 2025 - 17:23:41   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 14, 2025 - 17:23:58   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Mar. 14, 2025 - 17:23:58   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 14, 2025 - 17:24:01   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Mar. 14, 2025 - 17:24:01   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 14, 2025 - 17:31:35   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_1-muon_2-muon_6
+Mar. 19, 2025 - 12:22:22   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 4.0 - mDT 
+Mar. 19, 2025 - 12:22:22   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 22, 2025 - 10:30:33   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Mar. 22, 2025 - 10:30:33   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 22, 2025 - 10:41:48   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 4.0 - mDT 
+Mar. 22, 2025 - 10:41:48   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 22, 2025 - 10:41:56   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Mar. 22, 2025 - 10:41:56   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Mar. 22, 2025 - 10:42:05   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Mar. 22, 2025 - 10:42:05   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 02, 2025 - 23:31:07   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 4.0 - mDT 
+Apr. 02, 2025 - 23:31:07   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 02, 2025 - 23:33:09   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 02, 2025 - 23:33:09   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 02, 2025 - 23:35:49   ::Muon::ECS::No Run::Error::None::DAQ Check::Connection Error for DaqBoard : muon_1-muon_2-muon_3-muon_4-muon_5-muon_6
+Apr. 02, 2025 - 23:35:49   ::Veto::ECS::No Run::Error::None::DAQ Check::Board Server not active DaqBoard : veto_12-veto_3
+Apr. 02, 2025 - 23:42:25   ::Muon::ECS::No Run::Error::None::DAQ Check::Mismatch Error for DaqBoard : muon_1-muon_2-muon_6
+Apr. 18, 2025 - 09:56:52   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 4.0 - mDT 
+Apr. 18, 2025 - 09:56:52   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 20, 2025 - 18:20:47   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 4.0 - mDT 
+Apr. 20, 2025 - 18:20:47   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 20, 2025 - 18:20:56   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 20, 2025 - 18:20:56   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 20, 2025 - 18:21:04   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 20, 2025 - 18:21:04   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 20, 2025 - 21:59:58   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 4.0 - mDT 
+Apr. 20, 2025 - 21:59:58   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 20, 2025 - 22:00:18   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 20, 2025 - 22:00:18   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 20, 2025 - 22:00:31   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 20, 2025 - 22:00:31   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 20, 2025 - 23:04:16   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 4.0 - mDT 
+Apr. 20, 2025 - 23:04:16   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 20, 2025 - 23:04:22   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 20, 2025 - 23:04:22   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 20, 2025 - 23:04:24   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 20, 2025 - 23:04:24   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 21, 2025 - 00:44:36   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 4.0 - mDT 
+Apr. 21, 2025 - 00:44:36   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 21, 2025 - 00:48:19   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 21, 2025 - 00:48:19   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 21, 2025 - 00:48:29   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 21, 2025 - 00:48:29   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 21, 2025 - 16:35:56   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 4.0 - mDT 
+Apr. 21, 2025 - 16:35:56   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 21, 2025 - 16:36:18   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 21, 2025 - 16:36:18   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 21, 2025 - 16:36:32   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 21, 2025 - 16:36:32   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 21, 2025 - 17:21:17   ::Muon::ECS::No Run::Info::None::Start Panel::Muon panel - Version 4.0 - mDT 
+Apr. 21, 2025 - 17:21:17   ::Muon::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 21, 2025 - 18:39:35   ::Scifi::ECS::No Run::Info::None::Start Panel::Scifi panel - Version 2.0
+Apr. 21, 2025 - 18:39:35   ::Scifi::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started
+Apr. 21, 2025 - 18:39:42   ::Veto::ECS::No Run::Info::None::Start Panel::Veto panel - Version 5.0
+Apr. 21, 2025 - 18:39:42   ::Veto::DCS::No Run::Info::None::Start DCS::Voltages Monitoring Started

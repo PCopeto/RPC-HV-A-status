@@ -1,0 +1,107 @@
+[[crates]]
+module = 'SY5527'
+linktype = 'TCPIP'
+address = '10.11.104.59'
+username = 'admin'
+password = '04310022'
+
+[bias.default]
+ov = 0.0
+v_offset_tofpet = 0.0
+i_max = 500.0
+
+[bias.rpcn1]
+crate = 0
+board = 2
+channel = 0
+v_bd = 5500.0
+ov = 0
+i_max = 1.0
+
+[bias.rpcn2]
+crate = 0
+board = 2
+channel = 1
+v_bd = 5500.0
+ov = 0
+i_max = 1.0
+
+[bias.rpcn3]
+crate = 0
+board = 2
+channel = 2
+v_bd = 7000.0
+ov = 0
+i_max = 1.0
+
+[bias.rpcn4]
+crate = 0
+board = 2
+channel = 3
+v_bd = 5500.0
+ov = 0
+i_max = 1.0
+
+[bias.rpcn5]
+crate = 0
+board = 2
+channel = 4
+v_bd = 0
+ov = 0
+i_max = 0
+
+[bias.rpcn6]
+crate = 0
+board = 2
+channel = 5
+v_bd = 0
+ov = 0
+i_max = 0
+
+[bias.rpcp1]
+crate = 0
+board = 0
+channel = 0
+v_bd = 5500.0
+ov = 0
+i_max = 1.0
+
+[bias.rpcp2]
+crate = 0
+board = 0
+channel = 1
+v_bd = 5500.0
+ov = 0
+i_max = 1.0
+
+[bias.rpcp3]
+crate = 0
+board = 0
+channel = 2
+v_bd = 7000.0
+ov = 0
+i_max = 1.0
+
+[bias.rpcp4]
+crate = 0
+board = 0
+channel = 3
+v_bd = 5500.0
+ov = 0
+i_max = 1.0
+
+[bias.rpcp5]
+crate = 0
+board = 0
+channel = 4
+v_bd = 0
+ov = 0
+i_max = 0
+
+[bias.rpcp6]
+crate = 0
+board = 0
+channel = 5
+v_bd = 0
+ov = 0
+i_max = 0

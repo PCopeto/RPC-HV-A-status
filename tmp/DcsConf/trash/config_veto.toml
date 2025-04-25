@@ -1,0 +1,63 @@
+[[crates]]
+module = 'SY5527'
+linktype = 'TCPIP'
+address = '10.11.104.10'
+username = 'admin'
+password = 'admin'
+
+[[crates]]
+module = 'SY5527'
+linktype = 'TCPIP'
+address = '10.11.104.9'
+username = 'admin'
+password = 'admin'
+
+[board.default]
+v = 12
+i = 2.5
+
+[bias.default]
+ov = 3.5
+v_offset_tofpet = 0.6
+i_max = 300.0
+
+################# LV Veto #################
+[board.veto]
+crate = 1
+board = 0
+channel = 6
+
+
+################# HV Veto #################
+[bias.veto_1l]
+crate = 0
+board = 5
+channel = 30
+v_bd = 38.0
+ov = 3.4
+i_max = 2000.0
+
+[bias.veto_1r]
+crate = 0
+board = 5
+channel = 31
+v_bd = 38.0
+ov = 3.4
+i_max = 2000.0
+
+# [bias.veto_2l]
+# crate = 0
+# board = 4
+# channel = 30
+# v_bd = 38.0
+# ov = 3.4
+# i_max = 2000.0
+
+# [bias.veto_2r]
+# crate = 0
+# board = 4
+# channel = 31
+# v_bd = 38.0
+# ov = 3.4
+# i_max = 2000.0
+

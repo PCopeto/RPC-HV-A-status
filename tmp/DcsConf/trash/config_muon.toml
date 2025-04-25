@@ -1,0 +1,297 @@
+[[crates]]
+module = 'SY5527'
+linktype = 'TCPIP'
+address = '10.11.104.10'
+username = 'admin'
+password = 'admin'
+
+[[crates]]
+module = 'SY5527'
+linktype = 'TCPIP'
+address = '10.11.104.9'
+username = 'admin'
+password = 'admin'
+
+[board.default]
+v = 12
+i = 2.5
+
+[bias.default]
+ov = 3.5
+v_offset_tofpet = 0.6
+i_max = 300.0
+
+
+# ################# LV muons #################
+[board.muon_us1]
+crate = 1
+board = 0
+channel = 0
+
+[board.muon_us2]
+crate = 1
+board = 0
+channel = 1
+
+[board.muon_us3]
+crate = 1
+board = 0
+channel = 2
+
+[board.muon_ds1]
+crate = 1
+board = 0
+channel = 3
+
+[board.muon_ds2]
+crate = 1
+board = 0
+channel = 4
+
+[board.muon_ds3]
+crate = 1
+board = 0
+channel = 5
+
+
+
+################# HV Muons #################
+[bias.us1_rl] 
+crate = 0
+board = 5
+channel = 0
+v_bd = 38.0
+ov = 3.4
+i_max = 2000.0
+
+[bias.us1_rs]
+crate = 0
+board = 5
+channel = 1
+v_bd = 38.0
+ov = 9.4
+i_max = 2000.0
+
+[bias.us1_ls]
+crate = 0
+board = 5
+channel = 2
+v_bd = 38.0
+ov = 9.4
+i_max = 2000.0
+
+[bias.us1_ll]
+crate = 0
+board = 5
+channel = 3
+v_bd = 38.0
+ov = 3.4
+i_max = 2000.0
+
+[bias.us2_rl]
+crate = 0
+board = 5
+channel = 4
+v_bd = 38.0
+ov = 3.4 
+i_max = 2000.0
+
+[bias.us2_rs]
+crate = 0
+board = 5
+channel = 5
+v_bd = 38.0
+ov = 9.4 
+i_max = 2000.0
+
+[bias.us2_ls]
+crate = 0
+board = 5
+channel = 6
+v_bd = 38.0
+ov = 9.4 
+i_max = 2000.0
+
+[bias.us2_ll]
+crate = 0
+board = 5
+channel = 7
+v_bd = 38.0
+ov = 3.4 
+i_max = 2000.0
+
+[bias.us3_rl]
+crate = 0
+board = 5
+channel = 8
+v_bd = 38.0
+ov = 3.4 
+i_max = 2000.0
+
+[bias.us3_rs]
+crate = 0
+board = 5
+channel = 9
+v_bd = 38.0
+ov = 9.4 
+i_max = 2000.0
+
+[bias.us3_ls]
+crate = 0
+board = 5
+channel = 10
+v_bd = 38.0
+ov = 9.4
+i_max = 2000.0
+
+[bias.us3_ll]
+crate = 0
+board = 5
+channel = 11
+v_bd = 38.0
+ov = 3.4
+i_max = 2000.0
+
+[bias.us4_rl]
+crate = 0
+board = 5
+channel = 12
+v_bd = 38.0
+ov = 3.4 
+i_max = 2000.0
+
+[bias.us4_rs]
+crate = 0
+board = 5
+channel = 13
+v_bd = 38.0
+ov = 9.4 
+i_max = 2000.0
+
+[bias.us4_ls]
+crate = 0
+board = 5
+channel = 14
+v_bd = 38.0
+ov = 9.4 
+i_max = 2000.0
+
+[bias.us4_ll]
+crate = 0
+board = 5
+channel = 15
+v_bd = 38.0
+ov = 3.4 
+i_max = 2000.0
+
+[bias.us5_rl]
+crate = 0
+board = 5
+channel = 16
+v_bd = 38.0
+ov = 3.4 
+i_max = 2000.0
+
+[bias.us5_rs]
+crate = 0
+board = 5
+channel = 17
+v_bd = 38.0
+ov = 9.4 
+i_max = 2000.0
+
+[bias.us5_ls]
+crate = 0
+board = 5
+channel = 18
+v_bd = 38.0
+ov = 9.4 
+i_max = 2000.0
+
+[bias.us5_ll]
+crate = 0
+board = 5
+channel = 19
+v_bd = 38.0
+ov = 3.4
+i_max = 2000.0
+
+[bias.ds1_l]
+crate = 0
+board = 5
+channel = 20
+v_bd = 38.0
+ov = 3.4 
+i_max = 2000.0
+
+[bias.ds1_r]
+crate = 0
+board = 5
+channel = 21
+v_bd = 38.0
+ov = 3.4 
+i_max = 2000.0
+
+[bias.ds1_v]
+crate = 0
+board = 5
+channel = 22
+v_bd = 38.0
+ov = 3.4 
+i_max = 2000.0
+
+[bias.ds2_l]
+crate = 0
+board = 5
+channel = 23
+v_bd = 38.0
+ov = 3.4 
+i_max = 2000.0
+
+[bias.ds2_r]
+crate = 0
+board = 5
+channel = 24
+v_bd = 38.0
+ov = 3.4 
+i_max = 2000.0
+
+[bias.ds2_v]
+crate = 0
+board = 5
+channel = 25
+v_bd = 38.0
+ov = 3.4 
+i_max = 2000.0
+
+[bias.ds3_l]
+crate = 0
+board = 5
+channel = 26
+v_bd = 38.0
+ov = 3.4 
+i_max = 2000.0
+
+[bias.ds3_r]
+crate = 0
+board = 5
+channel = 27
+v_bd = 38.0
+ov = 3.4 
+i_max = 2000.0
+
+[bias.ds3_v]
+crate = 0
+board = 5
+channel = 28
+v_bd = 38.0
+ov = 3.4 
+i_max = 2000.0
+
+[bias.ds4_v]
+crate = 0
+board = 5
+channel = 29
+v_bd = 38.0
+ov = 3.4 
+i_max = 2000.0

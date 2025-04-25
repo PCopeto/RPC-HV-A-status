@@ -1,0 +1,805 @@
+##### Configuration 2025 with miniDT  ######
+
+[[crates]]
+module = 'SY5527'
+linktype = 'TCPIP'
+address = '10.11.104.9'
+username = 'admin'
+password = 'admin'
+
+[[crates]]
+module = 'SY5527'
+linktype = 'TCPIP'
+address = '10.11.104.10'
+username = 'admin'
+password = 'admin'
+
+
+[board.default]
+v = 12
+i = 2.5
+
+[bias.default]
+ov = 3.5
+v_offset_tofpet = 0.6
+i_max = 300.0
+
+################# LV Veto #################
+
+[board.veto_12]
+crate = 1
+board = 2
+channel = 6
+
+[board.veto_3]
+crate = 1
+board = 2
+channel = 7
+
+################# LV SciFi #################
+
+[board.scifi_1y1]
+crate = 0
+board = 0
+channel = 0
+
+[board.scifi_1y2]
+crate = 0
+board = 0
+channel = 1
+
+[board.scifi_1y3]
+crate = 0
+board = 0
+channel = 2
+
+[board.scifi_2y1]
+crate = 0
+board = 0
+channel = 3
+
+[board.scifi_2y2]
+crate = 0
+board = 0
+channel = 4
+
+[board.scifi_2y3]
+crate = 0
+board = 0
+channel = 5
+
+[board.scifi_3y1]
+crate = 0
+board = 0
+channel = 6
+
+[board.scifi_3y2]
+crate = 0
+board = 0
+channel = 7
+
+[board.scifi_3y3]
+crate = 0
+board = 1
+channel = 0
+
+[board.scifi_4y1]
+crate = 0
+board = 1
+channel = 1
+
+[board.scifi_4y2]
+crate = 0
+board = 1
+channel = 2
+
+[board.scifi_4y3]
+crate = 0
+board = 1
+channel = 3
+
+[board.scifi_5y1]
+crate = 0
+board = 1
+channel = 4
+
+[board.scifi_5y2]
+crate = 0
+board = 1
+channel = 5
+
+[board.scifi_5y3]
+crate = 0
+board = 1
+channel = 6
+
+# [board.scifi_3y1]
+# crate = 0
+# board = 1
+# channel = 7
+
+[board.scifi_1x1]
+crate = 0
+board = 2
+channel = 0
+
+[board.scifi_1x2]
+crate = 0
+board = 2
+channel = 1
+
+[board.scifi_1x3]
+crate = 0
+board = 2
+channel = 2
+
+[board.scifi_2x1]
+crate = 0
+board = 2
+channel = 3
+
+[board.scifi_2x2]
+crate = 0
+board = 2
+channel = 4
+
+[board.scifi_2x3]
+crate = 0
+board = 2
+channel = 5
+
+[board.scifi_3x1]
+crate = 0
+board = 2
+channel = 6
+
+[board.scifi_3x2]
+crate = 0
+board = 2
+channel = 7
+
+[board.scifi_3x3]
+crate = 0
+board = 3
+channel = 0
+
+[board.scifi_4x1]
+crate = 0
+board = 3
+channel = 1
+
+[board.scifi_4x2]
+crate = 0
+board = 3
+channel = 2
+
+[board.scifi_4x3]
+crate = 0
+board = 3
+channel = 3
+
+[board.scifi_5x1]
+crate = 0
+board = 3
+channel = 4
+
+[board.scifi_5x2]
+crate = 0
+board = 3
+channel = 5
+
+[board.scifi_5x3]
+crate = 0
+board = 3
+channel = 6
+
+# [board.spare]
+# crate = 0
+# board = 3
+# channel = 7
+
+# ################# LV muons #################
+
+[board.muon_1]
+crate = 1
+board = 2
+channel = 0
+
+[board.muon_2]
+crate = 1
+board = 2
+channel = 1
+
+[board.muon_3]
+crate = 1
+board = 2
+channel = 2
+
+[board.muon_4]
+crate = 1
+board = 2
+channel = 3
+
+[board.muon_5]
+crate = 1
+board = 2
+channel = 4
+
+[board.muon_6]
+crate = 1
+board = 2
+channel = 5
+
+[board.muon_mdt]
+crate = 1
+board = 3
+channel = 7
+
+
+
+################# HV Veto #################
+
+[bias.veto_1l]
+crate = 1
+board = 0
+channel = 0
+v_bd = 38.0
+ov = 3.9
+i_max = 2000.0
+
+[bias.veto_1r]
+crate = 1
+board = 0
+channel = 1
+v_bd = 38.0
+ov = 3.9
+i_max = 2000.0
+
+[bias.veto_2l]
+crate = 1
+board = 0
+channel = 2
+v_bd = 38.0
+ov = 3.9
+i_max = 2000.0
+
+[bias.veto_2r]
+crate = 1
+board = 0
+channel = 3
+v_bd = 38.0
+ov = 3.9
+i_max = 2000.0
+
+[bias.veto_3v]
+crate = 1
+board = 0
+channel = 4
+v_bd = 38.0
+ov = 3.9
+i_max = 2000.0
+
+
+################# HV SciFi #################
+
+[bias.scifi_1x1]
+crate = 0
+board = 4
+channel = 0
+v_bd = 50.93
+
+[bias.scifi_1x2]
+crate = 0
+board = 4
+channel = 1
+v_bd = 51.96
+
+[bias.scifi_1x3]
+crate = 0
+board = 4
+channel = 2
+v_bd = 52.24
+
+[bias.scifi_1y1]
+crate = 0
+board = 4
+channel = 3
+v_bd = 51.1
+
+[bias.scifi_1y2]
+crate = 0
+board = 4
+channel = 4
+v_bd = 51.51
+
+[bias.scifi_1y3]
+crate = 0
+board = 4
+channel = 5
+v_bd = 52.23
+
+[bias.scifi_2x1]
+crate = 0
+board = 4
+channel = 6
+v_bd = 52.82
+
+[bias.scifi_2x2]
+crate = 0
+board = 4
+channel = 7
+v_bd = 50.96
+
+[bias.scifi_2x3]
+crate = 0
+board = 4
+channel = 8
+v_bd = 51.89
+
+[bias.scifi_2y1]
+crate = 0
+board = 4
+channel = 9
+v_bd = 50.93
+
+[bias.scifi_2y2]
+crate = 0
+board = 4
+channel = 10
+v_bd = 50.96
+
+[bias.scifi_2y3]
+crate = 0
+board = 4
+channel = 11
+v_bd = 50.97
+
+[bias.scifi_3x1]
+crate = 0
+board = 4
+channel = 12
+v_bd = 51.14
+
+[bias.scifi_3x2]
+crate = 0
+board = 4
+channel = 13
+v_bd = 50.96
+
+[bias.scifi_3x3]
+crate = 0
+board = 4
+channel = 14
+v_bd = 50.92
+
+[bias.scifi_3y1]
+crate = 0
+board = 4
+channel = 15
+v_bd = 51.49
+
+[bias.scifi_3y2]
+crate = 0
+board = 4
+channel = 16
+v_bd = 50.96
+
+[bias.scifi_3y3]
+crate = 0
+board = 4
+channel = 17
+v_bd = 51.6
+
+[bias.scifi_4x1]
+crate = 0
+board = 4
+channel = 18
+v_bd = 52.29
+
+[bias.scifi_4x2]
+crate = 0
+board = 4
+channel = 19
+v_bd = 51.44
+
+[bias.scifi_4x3]
+crate = 0
+board = 4
+channel = 20
+v_bd = 50.95
+
+[bias.scifi_4y1]
+crate = 0
+board = 4
+channel = 21
+v_bd = 52.22
+
+[bias.scifi_4y2]
+crate = 0
+board = 4
+channel = 22
+v_bd = 52.23
+
+[bias.scifi_4y3]
+crate = 0
+board = 4
+channel = 23
+v_bd = 50.93
+
+[bias.scifi_5x1]
+crate = 0
+board = 4
+channel = 24
+v_bd = 51.13
+
+[bias.scifi_5x2]
+crate = 0
+board = 4
+channel = 25
+v_bd = 51.95
+
+[bias.scifi_5x3]
+crate = 0
+board = 4
+channel = 26
+v_bd = 51.68
+
+[bias.scifi_5y1]
+crate = 0
+board = 4
+channel = 27
+v_bd = 52.06
+
+[bias.scifi_5y2]
+crate = 0
+board = 4
+channel = 28
+v_bd = 51.93
+
+[bias.scifi_5y3]
+crate = 0
+board = 4
+channel = 29
+v_bd = 51.26
+
+################# HV Muons #################
+
+[bias.us1_rl] 
+crate = 1
+board = 1
+channel = 0
+v_bd = 38.0
+ov = 3.9
+i_max = 2000.0
+
+[bias.us1_rs]
+crate = 1
+board = 1
+channel = 1
+v_bd = 38.0
+ov = 9.4
+i_max = 2000.0
+
+[bias.us1_ls]
+crate = 1
+board = 1
+channel = 2
+v_bd = 38.0
+ov = 9.4
+i_max = 2000.0
+
+[bias.us1_ll]
+crate = 1
+board = 1
+channel = 3
+v_bd = 38.0
+ov = 3.9
+i_max = 2000.0
+
+[bias.us2_rl]
+crate = 1
+board = 1
+channel = 4
+v_bd = 38.0
+ov = 3.9
+i_max = 2000.0
+
+[bias.us2_rs]
+crate = 1
+board = 1
+channel = 5
+v_bd = 38.0
+ov = 9.4 
+i_max = 2000.0
+
+[bias.us2_ls]
+crate = 1
+board = 1
+channel = 6
+v_bd = 38.0
+ov = 9.4 
+i_max = 2000.0
+
+[bias.us2_ll]
+crate = 1
+board = 1
+channel = 7
+v_bd = 38.0
+ov = 3.9 
+i_max = 2000.0
+
+[bias.us3_rl]
+crate = 1
+board = 1
+channel = 8
+v_bd = 38.0
+ov = 3.9
+i_max = 2000.0
+
+[bias.us3_rs]
+crate = 1
+board = 1
+channel = 9
+v_bd = 38.0
+ov = 9.4 
+i_max = 2000.0
+
+[bias.us3_ls]
+crate = 1
+board = 1
+channel = 10
+v_bd = 38.0
+ov = 9.4
+i_max = 2000.0
+
+[bias.us3_ll]
+crate = 1
+board = 1
+channel = 11
+v_bd = 38.0
+ov = 3.9
+i_max = 2000.0
+
+[bias.us4_rl]
+crate = 1
+board = 1
+channel = 12
+v_bd = 38.0
+ov = 3.9 
+i_max = 2000.0
+
+[bias.us4_rs]
+crate = 1
+board = 1
+channel = 13
+v_bd = 38.0
+ov = 9.4 
+i_max = 2000.0
+
+[bias.us4_ls]
+crate = 1
+board = 1
+channel = 14
+v_bd = 38.0
+ov = 9.4 
+i_max = 2000.0
+
+[bias.us4_ll]
+crate = 1
+board = 1
+channel = 15
+v_bd = 38.0
+ov = 3.9 
+i_max = 2000.0
+
+[bias.us5_rl]
+crate = 1
+board = 1
+channel = 16
+v_bd = 38.0
+ov = 3.9
+i_max = 2000.0
+
+[bias.us5_rs]
+crate = 1
+board = 1
+channel = 17
+v_bd = 38.0
+ov = 9.4 
+i_max = 2000.0
+
+[bias.us5_ls]
+crate = 1
+board = 1
+channel = 18
+v_bd = 38.0
+ov = 9.4 
+i_max = 2000.0
+
+[bias.us5_ll]
+crate = 1
+board = 1
+channel = 19
+v_bd = 38.0
+ov = 3.9
+i_max = 2000.0
+
+[bias.ds1_l]
+crate = 1
+board = 1
+channel = 20
+v_bd = 38.0
+ov = 3.9 
+i_max = 2000.0
+
+[bias.ds1_r]
+crate = 1
+board = 1
+channel = 21
+v_bd = 38.0
+ov = 3.9 
+i_max = 2000.0
+
+[bias.ds1_v]
+crate = 1
+board = 1
+channel = 22
+v_bd = 38.0
+ov = 3.9 
+i_max = 2000.0
+
+[bias.ds2_l]
+crate = 1
+board = 1
+channel = 23
+v_bd = 38.0
+ov = 3.9
+i_max = 2000.0
+
+[bias.ds2_r]
+crate = 1
+board = 1
+channel = 24
+v_bd = 38.0
+ov = 3.9
+i_max = 2000.0
+
+[bias.ds2_v]
+crate = 1
+board = 1
+channel = 25
+v_bd = 38.0
+ov = 3.9
+i_max = 2000.0
+
+[bias.ds3_l]
+crate = 1
+board = 1
+channel = 26
+v_bd = 38.0
+ov = 3.9 
+i_max = 2000.0
+
+[bias.ds3_r]
+crate = 1
+board = 1
+channel = 27
+v_bd = 38.0
+ov = 3.9
+i_max = 2000.0
+
+[bias.ds3_v]
+crate = 1
+board = 1
+channel = 28
+v_bd = 38.0
+ov = 3.9 
+i_max = 2000.0
+
+[bias.ds4_v]
+crate = 1
+board = 1
+channel = 29
+v_bd = 38.0
+ov = 3.9
+i_max = 2000.0
+
+################# mDT Readout #################
+
+[board.mdt_fe]
+crate = 1
+board = 3
+channel = 2
+v = 12.15
+i = 2.5
+
+[board.mdt_vcu]
+crate = 1
+board = 3
+channel = 6
+i = 3.5
+v = 12.40
+
+[board.mdt_bb]
+crate = 1
+board = 3
+channel = 1
+v = 5.07
+i = 2.5
+
+[board.mdt_ttc]
+crate = 1
+board = 3
+channel = 3
+v = 6
+i = 2.5
+
+[board.mdt_obdt5]
+crate = 1
+board = 3
+channel = 4
+v = 5.15
+i = 2.5
+
+[board.mdt_obdt3]
+crate = 1
+board = 3
+channel = 5
+v = 3.60
+i = 3.60
+
+################# mDT HV #################
+
+[bias.mdtx_w] 
+crate = 1
+board = 4
+channel = 0
+v_offset_tofpet = 0.0
+v_bd = 3600.0
+ov = 0
+i_max = 20
+
+[bias.mdtx_s] 
+crate = 1
+board = 4
+channel = 2
+v_bd = 1800.0
+v_offset_tofpet = 0.0
+ov = 0
+i_max = 20
+
+[bias.mdtx_c] 
+crate = 1
+board = 5
+channel = 0
+v_bd = 1200.0
+v_offset_tofpet = 0.0
+ov = 0
+i_max = 15
+
+[bias.mdty_w] 
+crate = 1
+board = 4
+channel = 4
+v_offset_tofpet = 0.0
+v_bd = 3600.0
+ov = 0
+i_max = 20
+
+[bias.mdty_s] 
+crate = 1
+board = 4
+channel = 6
+v_bd = 1800.0
+v_offset_tofpet = 0.0
+ov = 0
+i_max = 15
+
+[bias.mdty_c] 
+crate = 1
+board = 5
+channel = 2
+v_bd = 1200.0
+v_offset_tofpet = 0.0
+ov = 0
+i_max = 15
